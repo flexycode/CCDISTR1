@@ -35,7 +35,7 @@ This repository is crafted to support your learning journey through "Discrete St
 
 ## Folder Structure  
 
-``bash
+```plaintext 
 /
 |-- src/            # Source code files
 |-- docs/           # Documentation files
@@ -43,7 +43,8 @@ This repository is crafted to support your learning journey through "Discrete St
 |-- tests/          # Test cases
 |-- LICENSE         # License information
 |-- README.md       # This README file
-``
+
+```
 
 ## License 
 
