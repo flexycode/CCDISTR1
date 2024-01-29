@@ -21,6 +21,8 @@ Welcome to the "CCDISTR1 - Discrete Structures 1" repository! This collection of
 
 Discrete Structures are essential components of computer science, providing a theoretical foundation for various algorithms, data structures, and problem-solving methodologies. This course focuses on key topics such as sets, logic, relations, functions, and combinatorics, offering insights into the fundamental principles that underlie the design and analysis of algorithms.
 
+## Usage
+
 ### Purpose of this Repository
 
 This repository is crafted to support your learning journey through "Discrete Structures 1." Here, you will find meticulously organized code examples, practical exercises, and educational materials aligned with the course curriculum. Whether you're diving into the basics or tackling advanced concepts, this repository aims to facilitate your understanding and application of discrete structures in computer science.
@@ -31,12 +33,17 @@ This repository is crafted to support your learning journey through "Discrete St
 - **Practical Exercises:** Engage in exercises designed to enhance your problem-solving skills and deepen your understanding of discrete mathematics.
 - **Supplementary Materials:** Access additional resources and documentation to complement your studies.
 
-### Source Code for README
+## Folder Structure  
 
-```bash
-# Example command or set of commands
-$ command_to_run_code
-```
+``bash
+/
+|-- src/            # Source code files
+|-- docs/           # Documentation files
+|-- data/           # Data files, if any
+|-- tests/          # Test cases
+|-- LICENSE         # License information
+|-- README.md       # This README file
+``
 
 ## License 
 
