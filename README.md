@@ -59,6 +59,7 @@ The National University of Manila License grants permission to students of the N
 * You may use this project as a reference or learning material for your studies at the National University of Manila.
 * You may modify the project to suit your educational needs and requirements.
 * You may share the project with your fellow students or instructors for educational purposes.
+* 💻
 
 #### Restrictions
 
