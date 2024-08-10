@@ -1,17 +1,25 @@
-# CCDISTR1 - DISCRETE STRUCTURES 1 
+# 💫 CCDISTR1 - DISCRETE STRUCTURES 1 
+
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
+### Subject & Section: CCDISTR1 - TBA
+### Professor: TBA   
+### No. of Units: 3 Units
+### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
 
 ## Overview
 
-This repository contains code and resources related to the "DISCRETE STRUCTURES-1" course. The code is identified by the tag "CCDISTR1."
+This repository contains code and resources related to the "DISCRETE STRUCTURES-1" course. The code is identified by the tag "CCDISTR1." 
 
-## Table of Contents
+## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [GitHub Repository](#github-repository) 
+- [Introduction](#-introduction)
+- [Usage](#-usage)
+- [KeyFeatures](#-key-features)
+- [Lesson](#-lesson) 
+- [Folder Structure](#-folder-structure)
+- [Contributing](#-contributing) 
+- [License](#-license)
+- [Changelogs](#-changelogs)
 
 ## Introduction
 
