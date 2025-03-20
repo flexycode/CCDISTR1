@@ -1,8 +1,9 @@
 # 💫 CCDISTR1 - DISCRETE STRUCTURES 1 
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
-### Subject & Section: CCDISTR1 - TBA
-### Professor: TBA   
+### Subject & Section: CCDISTR1 - COM242
+### Schedule: MON 12:00 PM - 04:00 PM  501 MB
+### Professor: Mr. Gaudencio Jeffrey G. Romano   
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
 
@@ -96,15 +97,15 @@ This project is provided "as is" without warranty of any kind, express or implie
 ## Acknowledgments
 
 ### ✨ Professor TBA 
+
 ```
 Professor TBA background profile coming soon...
 ```
 
-<!-- End point insert background effect line of sight color rainbow -->
-<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#-introduction)
+
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
 ---
 <p align="center">
@@ -113,7 +114,7 @@ Professor TBA background profile coming soon...
 
 <!-- Genshin Impact -->
 <div align="center">
-<img src="https://media.giphy.com/media/qr4CNpxIL6wwNUYZsL/giphy.gif?cid=ecf05e47iqq0k4rx0kv1fb3w4hl8dja3ouiqzx4vz1665i6b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UyY3hxOHpucHg0NjU5ZTBxN3p5NzlyeG41NmdoNHJjZ2lvaDA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QO9146378JY9aAqXyH/giphy.gif" width="300">
 </div>
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
