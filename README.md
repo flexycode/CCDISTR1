@@ -102,6 +102,29 @@ This project is provided "as is" without warranty of any kind, express or implie
 Professor TBA background profile coming soon...
 ```
 
+# 📫 Changelogs
+```
+## [0.0.1] - 2025-03-20     
+### Added  
+- ✨ Create Repository
+
+### Changed
+- ✨ Folder set rename
+
+### Fixed 
+- ✨ Fix changelogs
+
+## [1.0.1] - 2025-04-07   
+### Added  
+- ✨ Add Assignment No. 1
+
+## [1.0.2] - 2025-04-14   
+### Added  
+- ✨ Add Assignment No. 2
+- ✨ Add Assignment No. 3
+
+🧊 CCDISTR1
+```
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#-introduction)
