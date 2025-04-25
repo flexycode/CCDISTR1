@@ -96,11 +96,14 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 ## Acknowledgments
 
-### ✨ Professor TBA 
+### ✨ Professor
 
-```
-Professor TBA background profile coming soon...
-```
+Professor Romano demonstrates exceptional teaching abilities in Discrete Structures 1, a foundational course that provides critical theoretical knowledge for computer science students. His teaching style effectively conveys complex concepts such as sets, logic, relations, functions, and Venn diagrams in an accessible manner.
+
+What sets Professor Romano apart is his ability to blend educational content with humor. His lighthearted approach and occasional jokes related to IT careers and professional development create an engaging classroom environment while maintaining academic rigor. This balanced teaching style helps students remain attentive during lectures on otherwise challenging abstract concepts.
+
+Professor Romano's teaching methods reflect both deep subject expertise and a genuine understanding of effective pedagogical approaches for computer science education. His ability to make theoretical foundations approachable ensures students develop the crucial analytical thinking skills needed for algorithm design and problem-solving in their future coursework and careers.
+Based on his teaching performance, Professor Romano deserves recognition for his outstanding contribution to student learning in this essential computer science course. His combination of technical knowledge and personable teaching style creates an optimal learning environment for students tackling these abstract but vital concepts.
 
 # 📫 Changelogs
 ```
